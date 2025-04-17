@@ -1,6 +1,6 @@
 # llm-rag_chiller_control
-eee dissertation(llm-rag hvac chiller control)
-llm-rag全流程：
+eee dissertation(llm-rag hvac chiller control) /n
+llm-rag全流程：/n
 1.运行test_enhanced2.py，会生成6-12度冷机出水温度数据，已放在result_1.csv
 2.运行"数据集处理.py"，将数据整理成可以分割的数据集文本，已放在output_sentences2.txt
 3.运行model-openai-rag.py，调用rag输出llm-rag方案的冷机出水温度。
